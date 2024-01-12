@@ -1,0 +1,8 @@
+.is-invalid{
+    background: #ffc0b5;
+    color: #ff0000;
+}
+
+.is-invalid--label{
+    color: #ff0000;
+}
